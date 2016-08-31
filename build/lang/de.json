@@ -681,6 +681,8 @@
     "mma.mod_lti.launch_url": "Start-URL",
     "mma.mod_lti.launchactivity": "Aktivität starten",
     "mma.mod_page.errorwhileloadingthepage": "Fehler beim Laden des Seiteninhalts",
+    "mma.mod_resource.errorwhileloadingthecontent": "Fehler beim Laden des Inhalts",
+    "mma.mod_resource.openthefile": "Datei öffnen",
     "mma.mod_scorm.asset": "Anlage",
     "mma.mod_scorm.assetlaunched": "Anlage gesehen",
     "mma.mod_scorm.attempts": "Versuche",
@@ -757,7 +759,5 @@
     "mma.notifications.notifications": "Mitteilungen",
     "mma.notifications.therearentnotificationsyet": "Keine Mitteilungen",
     "mma.participants.noparticipants": "Keine Teilnehmer/innen für diesen Kurs gefunden",
-    "mma.participants.participants": "Personen",
-    "mma.mod_resource.errorwhileloadingthecontent": "Fehler beim Laden des Inhalts",
-    "mma.mod_resource.openthefile": "Datei öffnen"
+    "mma.participants.participants": "Personen"
 }

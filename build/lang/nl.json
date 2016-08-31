@@ -682,9 +682,9 @@
     "mma.mod_lti.errorinvalidlaunchurl": "De start-URL is niet geldig",
     "mma.mod_lti.launch_url": "Start-URL",
     "mma.mod_lti.launchactivity": "Start de activiteit",
+    "mma.mod_page.errorwhileloadingthepage": "Fout bij het laden van de pagina-inhoud.",
     "mma.mod_resource.errorwhileloadingthecontent": "Fout bij het laden van de inhoud.",
     "mma.mod_resource.openthefile": "Open het bestand",
-    "mma.mod_page.errorwhileloadingthepage": "Fout bij het laden van de pagina-inhoud.",
     "mma.mod_scorm.asset": "Set",
     "mma.mod_scorm.assetlaunched": "Set - bekeken",
     "mma.mod_scorm.attempts": "Pogingen",
@@ -762,9 +762,9 @@
     "mma.notes.publishstate": "Context",
     "mma.notes.sitenotes": "Site notities",
     "mma.notes.userwithid": "Gebruiker met ID {{$a}}",
-    "mma.participants.noparticipants": "Geen deelnemers gevonden in deze cursus",
-    "mma.participants.participants": "Deelnemers",
     "mma.notifications.errorgetnotifications": "Fout bij het ophalen van notificaties",
     "mma.notifications.notifications": "Meldingen",
-    "mma.notifications.therearentnotificationsyet": "Er zijn geen meldingen"
+    "mma.notifications.therearentnotificationsyet": "Er zijn geen meldingen",
+    "mma.participants.noparticipants": "Geen deelnemers gevonden in deze cursus",
+    "mma.participants.participants": "Deelnemers"
 }

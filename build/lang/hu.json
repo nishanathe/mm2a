@@ -516,9 +516,6 @@
     "mma.mod_survey.surveycompletednograph": "A felmérést befejezte.",
     "mma.mod_wiki.map": "Térkép",
     "mma.mod_wiki.notingroup": "Nem része a csoportnak",
-    "mma.notifications.notifications": "Értesítések",
-    "mma.notifications.therearentnotificationsyet": "Nincs értesítés",
-    "mma.participants.participants": "Résztvevők",
     "mma.notes.addnewnote": "Új megjegyzés hozzáadása",
     "mma.notes.coursenotes": "Kurzussal kapcsolatos megjegyzések",
     "mma.notes.eventnotecreated": "Megjegyzés létrehozva",
@@ -526,5 +523,8 @@
     "mma.notes.notes": "Az Ön személyes elemzése és megjegyzései",
     "mma.notes.personalnotes": "Személyes megjegyzések",
     "mma.notes.publishstate": "Környezet",
-    "mma.notes.sitenotes": "Portállal kapcsolatos megjegyzések"
+    "mma.notes.sitenotes": "Portállal kapcsolatos megjegyzések",
+    "mma.notifications.notifications": "Értesítések",
+    "mma.notifications.therearentnotificationsyet": "Nincs értesítés",
+    "mma.participants.participants": "Résztvevők"
 }
