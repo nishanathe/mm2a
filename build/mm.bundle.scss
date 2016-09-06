@@ -464,26 +464,6 @@ $bar-side-menu-text-color: $bar-content-text !default;
   }
 }
 
-.mma-mod_choice-user {
-  position: relative;
-  display: inline-block;
-  img {
-    position: absolute;
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    left: 50%;
-    margin-left: -20px;
-  }
-  p {
-    display: inline-block;
-    padding-top: 50px;
-  }
-}
-
-.mma-mod_choice-graph-horizontal {
-  height: 50px;
-}
 $mma-chat-notice-badge: "stable" !default;
 
 // The notice displayed in the list.
@@ -518,6 +498,26 @@ $mma-chat-notice-badge: "stable" !default;
 
 .mma-chat-reconnect-button, .button.mma-chat-reconnect-button {
   margin: 0;
+}
+.mma-mod_choice-user {
+  position: relative;
+  display: inline-block;
+  img {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    left: 50%;
+    margin-left: -20px;
+  }
+  p {
+    display: inline-block;
+    padding-top: 50px;
+  }
+}
+
+.mma-mod_choice-graph-horizontal {
+  height: 50px;
 }
 
 .mma-forum-discussion-link {
